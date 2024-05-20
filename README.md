@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm TAHAR ABBES ALA EDDINE</h1>
 <h3 align="center">A passionate Web Developer | JavaScript Developer</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aladinta68&label=Profile%20views&color=0e75b6&style=flat" alt="aladinta68" /> </p>
+</br>
+</br>
+</br>
 
-<p align="left"> <a href="https://twitter.com/taalae2000" target="blank"><img src="https://img.shields.io/twitter/follow/taalae2000?logo=twitter&style=for-the-badge" alt="taalae2000" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 - 👨‍💻 All of my projects are available at [https://taharabbesalaeddine.vercel.app/](https://taharabbesalaeddine.vercel.app/)
 
-- 📫 How to reach me **aladinta68@gmail.com**
+- 📫 You can reach me at **aladinta68@gmail.com**
+  
+- 🌍 I'm based in Algeria
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
