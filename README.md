@@ -1,3 +1,4 @@
+![logo](https://github.com/Aladinta68/Aladinta68/blob/main/Bleu%20et%20Blanc%20Abstrait%20Technologie%20LinkedIn%20Banni%C3%A8re.png)
 <h1 align="center">Hi 👋, I'm TAHAR ABBES ALA EDDINE</h1>
 <h3 align="center">A passionate Web Developer | JavaScript Developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
